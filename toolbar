@@ -1,0 +1,5 @@
+prog   "Thunar"  ~/.icewm/icons/files.png  thunar
+prog   "Mousepad"  ~/.icewm/icons/text.png  mousepad
+prog   "kitty"  ~/.icewm/icons/term.png  kitty
+prog   "Firefox"  ~/.icewm/icons/firefox.png  firefox
+

@@ -1,0 +1,13 @@
+TaskBarShowShowDesktopButton=0
+TaskBarShowMailboxStatus=0
+TaskBarShowShowDesktopButton=0
+TaskBarShowWindowListMenu=0
+TaskBarShowCPUStatus=0
+TaskBarShowMEMStatus=0
+TaskBarShowNetStatus=0
+TaskBarShowAPMStatus=0
+TaskBarShowAPMAuto=0
+TaskBarShowWorkspaces=0
+TimeFormat="%I:%M %p "
+WorkspaceNames=" 1 "
+
